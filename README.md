@@ -24,7 +24,7 @@ A Java-based currency converter application that converts between five major wor
 ## Technologies Used
 
 - Java
-- Swing GUI (assumed based on project context)
+- JavaFX
 
 ## File Structure
 
