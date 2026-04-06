@@ -1,11 +1,42 @@
-Project Name: Money Converter
+# Money Converter
 
-Team Name: !Yes
+A Java-based currency converter application that converts between five major world currencies: US Dollar (USD), Japanese Yen (JPY), Australian Dollar (AUD), Euro (EUR), and British Pound (GBP).
 
-Team Members: Vincent Griest, Ryan Kovacs, Forhaad Miah
+## Team
 
-Description: Our project is about being able to convert from and to the currencies: US dollars, Japanese Yen, Austrailian Dollars, Euros, and British pounds. 
+- **Team Name:** !Yes
+- **Members:** Vincent Griest, Ryan Kovacs, Forhaad Miah
 
-How to use Money Converter: The first step to being able to use the Money Converter app is to click on the "from" choice box to select the currency that you want to convert from and then clicking the "to" choice box to choose the currency you want to convert to.
-The second step is clicking on the text box and typing the number of how much of the "from" currency you want to convert to the "to" currency.
-The final step is to click the convert button and the conversion number will be shown at the bottom of the app.
+## Features
+
+- Convert between 5 currencies
+- Simple, intuitive GUI interface
+- Real-time conversion display
+
+## How to Use
+
+1. Select the currency you want to convert **from** in the "from" dropdown
+2. Select the currency you want to convert **to** in the "to" dropdown
+3. Enter the amount in the text box
+4. Click the **Convert** button
+5. View the converted amount at the bottom of the app
+
+## Technologies Used
+
+- Java
+- Swing GUI (assumed based on project context)
+
+## File Structure
+
+- `Money Converter/` - Main application source code
+- `CSI Final Project Presentation(3).pptx` - Project presentation
+- `Implementation Manual(4).docx` - Implementation guide
+- `User Manual(2).docx` - User instructions
+- `Final UML Diagram.png` - UML class diagram
+- `ProposalREADME.md` - Original proposal documentation
+
+## Installation
+
+```bash
+git clone https://github.com/vmgriest/FinalProjectProposal.git
+cd FinalProjectProposal/Money\ Converter
